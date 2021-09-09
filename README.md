@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hi there, My name is Vivek Patel 👋
+ Hi there, My name is Vcode Mentor 👋
  </h1>
  
  <h4 align='center'>
@@ -7,7 +7,7 @@
  </h4>
  
 <p align='center'>
-<img src='https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg'>
+<img src='https://via.placeholder.com/1024x400'>
 </p>
  
 
@@ -49,7 +49,7 @@
 ## Interest and Contact
 
 
-## Stats and Trophys
+## Certificates And Badges And Trophy
 
 
 
