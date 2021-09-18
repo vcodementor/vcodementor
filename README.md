@@ -35,8 +35,9 @@
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <img src="https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=06B6D4">
   <br>
-  <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
+  <img src="https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&color=4479A1">
   <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
+  <img src="https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=Bitbucket&color=0C61DB">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
   <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
   <br>
