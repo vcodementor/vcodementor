@@ -18,7 +18,7 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
-  <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=A8B9CC">
+  <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=DD1b16">
   <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&color=42b883">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
