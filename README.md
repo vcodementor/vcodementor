@@ -51,10 +51,4 @@
   <br>
 </div>
 
-## Skills and Experiance
-
-
-## Interest and Contact
-
-
 ## Certificates And Badges And Trophy
