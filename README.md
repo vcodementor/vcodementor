@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=WordPress&color=21759B">
   <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=8892BF">
   <img src="https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&color=4A8BFC">
-  <img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=ReactNative&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&color=3DDC84">
   <img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=60CAF6">
   <br>
