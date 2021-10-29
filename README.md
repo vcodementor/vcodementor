@@ -6,13 +6,13 @@
     Full Stack Developer || Software Engineer
 </h4>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=vcodementor&label=Profile%20views&color=0e75b6&style=flat"
         alt="vcodementor" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcodementor&show_icons=true&locale=en"
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=vcodementor&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
         alt="vcodementor" />
 </p>
 
@@ -46,9 +46,9 @@
     
 </p>
 
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodementor&show_icons=true&locale=en&layout=compact"
+<p align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodementor&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact"
         alt="vcodementor" />
 </p>
 
@@ -176,7 +176,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vcodementor" alt="vcodementor" />
+        <img src="https://github-profile-trophy.vercel.app/?username=vcodementor&theme=tokyonight&hide_border=true" alt="vcodementor" />
     </a>
 </p>
 
