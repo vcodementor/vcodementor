@@ -1,18 +1,17 @@
 <h1 align='center'>
- Hi, My name is Vcode Mentor 👋
- </h1>
+    Hi, I'm Vcode Mentor 👋
+</h1>
  
- <h4 align='center'>
- Full Stack Developer || Software Engineer 
- </h4>
- 
+<h4 align='center'>
+    Full Stack Developer || Software Engineer 
+</h4>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=vcodementor&label=Profile%20views&color=0e75b6&style=flat" alt="vcodementor" /> 
+</p>
+
 <p align='center'>
 <img src='https://via.placeholder.com/1024x400'>
-</p>
- 
-
-<p align='center'>
-
 </p>
 
 <p align='center'>
@@ -45,10 +44,24 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
    
 </p>
-
+ 
 <div align="center"> 
   Thank You for visiting my profile, see you next time!
   <br>
 </div>
 
 ## Certificates And Badges And Trophy
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=vcodementor" alt="vcodementor" />
+    </a> 
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodementor&show_icons=true&locale=en&layout=compact" alt="vcodementor" />
+ </p>
+
+<p> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcodementor&show_icons=true&locale=en" alt="vcodementor" />
+</p>
