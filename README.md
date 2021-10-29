@@ -11,9 +11,11 @@
         alt="vcodementor" />
 </p>
 
-<p align='center'>
-    <img src='https://via.placeholder.com/1024x400'>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcodementor&show_icons=true&locale=en"
+        alt="vcodementor" />
 </p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -41,6 +43,13 @@
         <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
             alt="typescript" />
     </a>
+    
+</p>
+
+<p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodementor&show_icons=true&locale=en&layout=compact"
+        alt="vcodementor" />
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -171,13 +180,3 @@
     </a>
 </p>
 
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodementor&show_icons=true&locale=en&layout=compact"
-        alt="vcodementor" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcodementor&show_icons=true&locale=en"
-        alt="vcodementor" />
-</p>
